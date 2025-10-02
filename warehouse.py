@@ -40,7 +40,7 @@ if tab == "?? Home":
 # ?? ROUTE OPTIMIZER (Travelling Salesman Problem)
 # ---------------------------------------------
 elif tab == "?? Route Optimizer":
-    st.title("?? Route Optimizer – TSP")
+    st.title("?? Route Optimizer â€“ TSP")
 
     # Coordinates for warehouse and customers
     locations = {
@@ -106,7 +106,7 @@ elif tab == "?? Route Optimizer":
 # ?? SHELF CLUSTERING (K-Means)
 # ---------------------------------------------
 elif tab == "?? Shelf Clustering":
-    st.title("?? Shelf Space Allocation – K-Means")
+    st.title("?? Shelf Space Allocation â€“ K-Means")
 
     # Sample product data
     data = {
